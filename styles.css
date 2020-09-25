@@ -1,0 +1,191 @@
+body{
+  margin: 0;
+  font-family: Ariel;
+}
+
+.fixed-width{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#bold{
+  font-size: 16px;
+  border-right:
+}
+
+.top-bar{
+  background-color: white;
+  width: 100%;
+  height: 40px;
+  color: #333333;
+ }
+
+.top-bar ul{
+  margin: 0;
+  padding: 0;
+
+}
+
+.top-bar ul li{
+  float: left;
+  list-style: none;
+  font-weight: bold;
+  font-size: 1.1 em;
+  border-right: 1px solid #b4b4b4;
+  padding: 10px 20px 10px 20px
+
+
+}
+.news-bar{
+  background-color: #BB181A;
+  width: 100%;
+  height: 60px;
+  color: white;
+}
+
+.news-bar p{
+  font-size: 2.2em;
+  font-family: arial;
+  position: relative;
+  right 2px;
+  padding-top: 10px;
+  margin-top: 0
+
+}
+
+.category-bar{
+  background-color: #AA161B;
+  width: 100%;
+  height: 30px;
+  color: white;
+}
+
+.category-bar ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  right: 8px;
+
+}
+
+.category-bar ul li{
+  float: left;
+  font-family: Arial;
+  font-size: 14px;
+  border-right: 1px solid #BB4545;
+  padding: 6px 10px 8px 10px
+}
+
+.location-bar{
+  background-color: white;
+  width: 100%;
+  height: 40px;
+  color: #333333;
+}
+
+.location-bar ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: relative;
+  right: 8px;
+
+}
+
+.location-bar ul li{
+  float: left;
+  font-family: Arial;
+  font-size: 12px;
+  position: relative;
+  right: 3px;
+  border-right: 1px solid #b4b4b4;
+  padding: 0px 12px 0px 12px;
+  margin-top: 5px
+}
+
+
+.content{
+  background-color: #0000;
+  width: 100%;
+  color: black;
+}
+
+.content h1{
+  color: #676667
+}
+
+.content h1:hover{
+  color: #18639D
+}
+
+.content img{
+  float: right;
+  position: relative;
+  right: 330px
+}
+
+.content p{
+  width: 215px;
+  color: #676667;
+}
+
+.content a{
+  text-decoration: none;
+  color: #333333;
+}
+
+.content a:hover{
+  color: #18639D
+}
+
+.watch-listen{
+  float: right;
+  position: relative;
+  bottom: 300px;
+  right: 300px;
+  border-left: 1px solid #b4b4b4;
+  padding: 0 0 0 25px;
+}
+
+.watch-listen h2{
+  font-family: arial;
+  font-weight: 100;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+.watch-listen img{
+  position: relative;
+  right: 5px;
+}
+
+
+
+#content-links{
+  margin-top: 50px;
+  line-height: 25px;
+  width: 260px;
+}
+
+#logo{
+  float: left;
+  padding-top: 6px;
+  padding-right: 10px;
+  padding-bottom: 6px;
+  border-right: 1px solid #b4b4b4;
+}
+
+#sign-in{
+  float: left;
+  font-weight: bold;
+  font-size: 1.1 em;
+  padding: 10px 80px 10px 10px;
+  border-right: 1px solid #b4b4b4;
+}
+
+#search-box{
+  float: left;
+  width: 100px;
+  padding: 10px;
+}
